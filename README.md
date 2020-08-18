@@ -1,1 +1,1 @@
-# dbms-project
+# day-planner-project
